@@ -77,7 +77,7 @@ args.labels_mixup_style : ['1', 'lambda']
 Set `args.mode` to `validation` or `test`.
 
 
-### Main results
+## Main results
 
 <img src="https://github.com/JixiangGao/D-Mixup/tree/main/pics/main-results.png" width="400" alt="Main results">
 
