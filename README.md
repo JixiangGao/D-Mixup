@@ -1,6 +1,6 @@
 # D-Mixup: Dynamic Mixup for Multi-Label Long-Tailed Food Ingredient Recognition
 
-<img src="https://github.com/JixiangGao/D-Mixup/pics/framework-overview.png" width="400" alt="D-Mixup">
+<img src="https://github.com/JixiangGao/D-Mixup/tree/main/pics/framework-overview.png" width="400" alt="D-Mixup">
 
 ## Overview
 
@@ -79,6 +79,6 @@ Set `args.mode` to `validation` or `test`.
 
 ### Main results
 
-<img src="https://github.com/JixiangGao/D-Mixup/pics/main-results.png" width="400" alt="Main results">
+<img src="https://github.com/JixiangGao/D-Mixup/tree/main/pics/main-results.png" width="400" alt="Main results">
 
 
